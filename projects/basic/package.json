@@ -1,0 +1,10 @@
+{
+  "name": "basic",
+  "scripts": {
+    "dev": "wrangler dev",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "hono": "^4.5.6"
+  }
+}
