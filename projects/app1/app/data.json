@@ -1,0 +1,51 @@
+{
+  "shops": [
+    {
+      "id": "yoshimuraya",
+      "name": "吉村家",
+      "photos": [
+        {
+          "name": "yoshimuraya-001.jpg",
+          "width": 1200,
+          "height": 900,
+          "authorId": "yusukebe",
+          "url": "https://ramen-api.dev/images/yoshimuraya/yoshimuraya-001.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sugitaya",
+      "name": "杉田家",
+      "photos": [
+        {
+          "name": "sugitaya-001.jpg",
+          "width": 1200,
+          "height": 900,
+          "authorId": "yusukebe",
+          "url": "https://ramen-api.dev/images/sugitaya/sugitaya-001.jpg"
+        }
+      ]
+    },
+    {
+      "id": "takasagoya",
+      "name": "たかさご家",
+      "photos": [
+        {
+          "name": "takasagoya-001.jpg",
+          "width": 1200,
+          "height": 900,
+          "authorId": "yusukebe",
+          "url": "https://ramen-api.dev/images/takasagoya/takasagoya-001.jpg"
+        }
+      ]
+    }
+  ],
+  "totalCount": 7,
+  "pageInfo": {
+    "nextPage": 2,
+    "prevPage": null,
+    "lastPage": 3,
+    "perPage": 3,
+    "currentPage": 1
+  }
+}

@@ -1,15 +1,12 @@
 {
-  "name": "monorepo",
+  "name": "ramen-app-with-honox",
   "workspaces": [
     "packages/*"
   ],
   "private": true,
   "devDependencies": {
-    "@cloudflare/vitest-pool-workers": "^0.4.31",
-    "@cloudflare/workers-types": "^4.20240815.0",
     "@hono/eslint-config": "^0.0.6",
-    "eslint": "^8.57.0",
-    "vitest": "1.5.0"
+    "eslint": "^8.57.0"
   },
   "engines": {
     "node": ">=18.0.0"
