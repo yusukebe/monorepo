@@ -5,7 +5,7 @@
   ],
   "private": true,
   "devDependencies": {
-    "@cloudflare/vitest-pool-workers": "^0.4.23",
+    "@cloudflare/vitest-pool-workers": "^0.4.31",
     "@cloudflare/workers-types": "^4.20240815.0",
     "@hono/eslint-config": "^0.0.6",
     "eslint": "^8.57.0",
